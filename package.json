@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/borisitod/random-number-example"
+    "url": "git+https://github.com/borisitod/random-number-example"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "random-formal-email-generator": "^1.0.0"
+  }
 }
