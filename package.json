@@ -14,6 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "random-formal-email-generator": "^1.0.0"
+    "random-australian-address-generator": "^1.0.0",
+    "random-formal-email-generator": "^1.0.0",
+    "simple-to-do-list-package": "^1.0.0"
   }
 }
